@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+li {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+
+d-flex {
+  display: flex;
+}
+
+.ofh {
+  overflow: hidden;
+}
+
+.h100{
+  height: 100px;
+}
+.h200 {
+  height: 200px;
+}
+.h300 {
+  height: 300px;
+}
+
+w1200{
+  width: 1200px;
+}
+
